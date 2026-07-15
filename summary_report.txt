@@ -1,0 +1,44 @@
+STUDENT MARKS ANALYSIS - SUMMARY REPORT
+=============================================
+
+1. Subject-wise Average Marks
+------------------------------
+Subject
+English    78.00
+Math       69.42
+Science    70.68
+
+2. Class & Subject-wise Average Marks
+------------------------------
+Class  Subject
+10-A   English    80.50
+       Math       67.50
+       Science    64.68
+10-B   English    75.50
+       Math       71.35
+       Science    76.68
+
+3. Student-wise Total & Average (ranked)
+------------------------------
+ StudentID    Name Class  Total  Average
+         6    Isha  10-B  274.0    91.33
+         2    Riya  10-A  250.7    83.57
+         1   Aarav  10-A  241.0    80.33
+         8  Ananya  10-B  230.0    76.67
+         3   Kabir  10-B  204.4    68.13
+         7   Rohan  10-A  196.0    65.33
+         4   Meera  10-B  185.7    61.90
+         5 Devansh  10-A  163.0    54.33
+
+4. Topper in Each Subject
+------------------------------
+Subject Name  Marks
+English Isha   95.0
+   Math Riya   92.0
+Science Isha   91.0
+
+5. Overall Class Average
+------------------------------
+Class
+10-A    70.89
+10-B    74.51
